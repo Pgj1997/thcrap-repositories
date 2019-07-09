@@ -10,5 +10,5 @@
 	"patches": {
 		"hq_rips": "Replaces a good chunk of the music with high quality rips",
 		
-	"title": "Pgj1997's Patches;"
+	"title": "Pgj1997's Patches";
 }
