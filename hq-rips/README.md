@@ -2,8 +2,10 @@
 
 ## Embodiment of Scarlet Devil
 * A Stand as Red as a Ground Cherry - Pgj1997
+* Apparations Stalk the Night - SiIvaGunner
 * Miss 9 Below - Pgj1997
 * Voile, The Magic Library - TimmyTurnersGrandDad
+* The Young Descendant of Tepes (SC-88pro) - SiIvaGunner
 * Septette for the Dead Princess - SiIvaGunner
 * The Centennial Festival for Magical Girls (SC-88pro) - SiIvaGunner
 * U.N. Owen Was Her? (JP Version) - SiIvaGunner
@@ -12,6 +14,7 @@
 * Paradise ~ Deep Mountain - TimmyTurnersGrandDad
 * Crystalized Angel - Pgj1997
 * The Mewster of Disguise - Pgj1997
+* Snowy Band ~ Frozen Ensemble - Pgj1997
 * Charming Domination - SiIvaGunner
 * A Maiden's Illusionary Funeral ~ Necro Fantasy - SiIvaGunner
 * Necrofantasia - SiIvaGunner
@@ -23,8 +26,9 @@
 * Splatfest 1969 - Pgj1997
 * Gensokyo Millenium ~ History of the Moon - TimmyTurnersGrandDad
 * Flight of the Bamboo Cutter ~ Lunatic Princess - SiIvaGunner
+* Does Your Phoenix Lose Its Feathers On the Bedpost Overnight? - Pgj1997
 
-##Phantasmagoria of Flower View:
+## Phantasmagoria of Flower View:
 * Za Warudo's Gonna Roll Me - Pgj1997
 * Wind God Girl - SiIvaGunner
 * Higan Retour ~ Riverside View - SiIvaGunner
