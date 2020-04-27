@@ -21,6 +21,7 @@
 
 
 ## Imperishable Night
+* Nostalgic Blood of the East ~ Old World - SiIvagunner
 * Lightning Bug Picnic - Pgj1997
 * Love-Colored Casket of Star - Pgj1997
 * Splatfest 1969 - Pgj1997
@@ -99,6 +100,7 @@ Beloved Fun Song - Pgj1997
 
 ## Hidden Star in Four Seasons
 * Does the Forbidden Door Lead to This World, or the World Beyond? - SiIvaGunner
+* Crazy Rubber Dancers - Pgj1997
 * The Concealed Four Seasons - SiIvaGunner
 * White Traveller - SiIvaGunner
 * Player Score - TimmyTurnersGrandDad
