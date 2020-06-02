@@ -57,7 +57,7 @@
 * Icelandic Alien - Pgj1997
 
 ## Hisotensoku
-Beloved Fun Song - Pgj1997
+* Beloved Fun Song - Pgj1997
 
 ## Fairy Wars
 * Rescue Fairies - Pgj1997
@@ -73,6 +73,7 @@ Beloved Fun Song - Pgj1997
 * Punch Up, Great Wheel - Pgj1997
 
 ## Double Dealing Character
+* Mist Lake - SiIvaGunner
 * Graze to the Beat of the Drum - Pgj1997
 * Player Score - TimmyTurnersGrandDad (Hidden Star in Four Seasons)
 
@@ -107,6 +108,7 @@ Beloved Fun Song - Pgj1997
 
 ## Violet Detector
 * The Irate Psychic - Pgj1997
+* Lucid Dreamer - SiIvaGunner
 * Old Adam Memes - Pgj1997
 * Lunatic Dreamer - SiIvaGunner
 * Nightmare Diary - SiIvaGunner
