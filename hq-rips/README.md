@@ -21,7 +21,7 @@
 
 
 ## Imperishable Night
-* Nostalgic Blood of the East ~ Old World - SiIvagunner
+* Nostalgic Blood of the East ~ Old World - SiIvaGunner
 * Lightning Bug Picnic - Pgj1997
 * Love-Colored Casket of Star - Pgj1997
 * Splatfest 1969 - Pgj1997
@@ -46,6 +46,7 @@
 * Ridiculous Game - SiIvaGunner
 * Broken Moon - SiIvaGunner
 * Drunk as I Like - SiIvaGunner
+* Out of Stopped Time - Pgj1997
 
 ## Subteranean Animism
 * Hartmann's Youkai Girl - SiIvaGunner
@@ -58,6 +59,7 @@
 
 ## Hisotensoku
 * Beloved Fun Song - Pgj1997
+* Solor Sect of Mystoc Wisdom ~ Nuclear Fusion - SiIvaGunner
 
 ## Fairy Wars
 * Rescue Fairies - Pgj1997
