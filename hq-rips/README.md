@@ -39,6 +39,7 @@
 
 ## Mountain of Faith
 * Because Princess Inada is Scolding Me - SiIvaGunner
+* Fall of Fall ~ Autumnal Waterfall - SiIvaGunner
 * Fiath is For the Transient People - SiIvaGunner
 * Naitive Faith - SiIvaGunner
 
@@ -120,3 +121,7 @@
 * The Unspoken of Beast Spirits (Title Theme) - maki ligon
 * Kutaka's Lullaby - Pgj1997
 * Lost River - SiIvaGunner
+
+## Unconnected Marketeers
+* Skitty of Great Fortune - Pgj1997
+* Ore from the Age of the Gods (SiIvaGunner)
