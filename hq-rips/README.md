@@ -124,4 +124,4 @@
 
 ## Unconnected Marketeers
 * Skitty of Great Fortune - Pgj1997
-* Ore from the Age of the Gods (SiIvaGunner)
+* Ore from the Age of the Gods - SiIvaGunner
